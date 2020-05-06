@@ -14,7 +14,7 @@ Upgrade
 
 From time to time it will be necessary to upgrade your osTicket installation to the latest version, either to fix bugs or gain new features. Starting with version 1.6, osTicket is a complete rewrite with new database schema and code base making it hard to simply upgrade from previous versions.
 
-#. Only previous versions from version 1.6 RC1 can be upgraded to the current version.
+#. Only versions newer than version 1.6 RC1 can be upgraded to the current version.
 #. If your osTicket version is older than 1.6, you need to look into migration instead.
 
 .. raw:: html
